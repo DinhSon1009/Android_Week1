@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_w1</string>
+    <string name="activity_welcome_sign_in_underline"><u>Sign In</u></string>
+    <string name="activity_verification_don_receive_code">I don\'t receive a code!</string>
+</resources>
